@@ -11,6 +11,11 @@ Upload an image and get instant classification results like:
 <img width="619" alt="Screenshot 2025-06-15 at 6 59 44 AM" src="https://github.com/user-attachments/assets/57533b06-e15d-4115-a3df-9440d461a41b" />
 
 
+## 🎥 Video
+
+
+https://github.com/user-attachments/assets/22789f7c-220e-4589-bb34-605a10d297c1
+
 
 
 
